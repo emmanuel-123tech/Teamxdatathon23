@@ -1,7 +1,6 @@
 # Teamxdatathon23
 Fraud Detection for online payment platform
 
-Fraud Detection for Online Payment Platform 
 
 
 The Fraud Detection  is a crucial asset for our business, providing valuable insights and opportunities for enhancing the security and trustworthiness of our online payment platform. This dataset represents transactions and user-related data collected over time from our platform. The primary goal is to develop an advanced predictive model to identify potentially fraudulent transactions. 
@@ -20,3 +19,5 @@ Objectives
 
 Business Impact
 The success of this project has significant implications for our business. An effective fraud detection system will help us maintain the integrity of our platform, foster user trust, and ensure the sustainability of our operations. By reducing fraud-related losses and improving the overall user experience, we aim to achieve long-term growth and success in the competitive online payment industry.
+
+Dataset: https://drive.google.com/folderview?id=1NDRx33ohBh3_LlVhygzc8n3Q3F8OE2Od
